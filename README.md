@@ -4,8 +4,8 @@
 
 💻 **My Interests**
 - DevOps ✍️
-- Distributed Systems
-- Linux Systems
+- Distributed Systems ✍️
+- Linux Systems ✍️
 - Backend Development ✍️
 - Cloud Computing 🧐
 - Software Engineering 😬
