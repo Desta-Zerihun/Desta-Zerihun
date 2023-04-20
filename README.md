@@ -1,6 +1,6 @@
 ### Hi there, I am Desta Zerihun 👋
 
-- 🎯 Portfolio: [Portfolio](https://desta-zerihun.netlify.app/)
+- 🎯 Portfolio: [Desta Zerihun](https://desta-zerihun.netlify.app/)
 
 💻 **My Interests**
 - DevOps ✍️
