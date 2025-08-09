@@ -2,19 +2,19 @@
 
 - 🎯 Portfolio: [Desta Zerihun](https://desta-zerihun.netlify.app/)
 
-💻 **My Interests**
+💻 **My Expertise**
 - DevOps ✍️
 - Distributed Systems ✍️
-- Linux Systems ✍️
+- Systems Engineering ✍️
 - Backend Development ✍️
 - Cloud Computing 🧐
 - Software Engineering 😬
 - Competitive Programming😬
 
         
-🛠**My Tech Stack**
+🛠** Tech Stack**
 
-**Programming and Scripting Languages**
+**Programming and Scripting**
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
